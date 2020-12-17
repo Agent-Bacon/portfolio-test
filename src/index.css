@@ -17,3 +17,7 @@
 .home-name {
   font-size: 150px;
 }
+
+.transition-all {
+  transition: all 0.25s;
+}
